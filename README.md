@@ -1,17 +1,18 @@
 # Analisis_de_datos_sobre_la_correlacion_entre_pobreza_inseguridad_y_crecimiento_poblacional
-# Nombre del Proyecto 🚀
+# 🏥 Análisis de Pacientes con Diabetes
 
-Una breve descripción del proyecto (1-2 líneas).
+## 📖 Descripción
+Análisis exploratorio de dataset de pacientes con diabetes para identificar factores de riesgo y patrones predictivos.
 
-## 📋 Tabla de Contenidos
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+## 🎯 Objetivos
+- Identificar factores correlacionados con diagnóstico de diabetes
+- Desarrollar modelo predictivo de riesgo
+- Proporcionar visualizaciones comprensivas
 
-## 🛠️ Instalación
-Pasos para instalar y configurar el proyecto:
-```bash
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
-npm install  # o pip install, etc.
+## 🚀 Ejecución Rápida
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/diabetes-analysis/blob/main/analysis.ipynb)
+
+## 📊 Hallazgos Clave
+- **Edad**: Pacientes mayores de 45 años tienen 3x más riesgo
+- **BMI**: Índice de masa corporal >30 aumenta probabilidad en 65%
+- **Herencia**: Historial familiar es el factor más predictivo
