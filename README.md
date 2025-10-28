@@ -78,7 +78,7 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 ## ⭐ Cómo citar
 
 > Gómez, J. (2025). *Población y Natalidad en Bogotá: Análisis de Datos Final.* GitHub Repository.  
-> https://github.com/tuusuario/PoblacionYNatalidadBogota
+> [https://github.com/tuusuario/PoblacionYNatalidadBogota](https://github.com/prxvxjpg/Analisis_de_datos_sobre_la_correlacion_entre_pobreza_inseguridad_y_crecimiento_poblacional)
 
 ---
 
