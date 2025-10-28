@@ -60,11 +60,13 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 ## 📚 Fuentes de datos
 
 
-- [**Población en Bogotá D.C por Localidad (2005–2035):** ](https://saludata.saludcapital.gov.co/osb/indicadores/natalidad-en-bogota/)
+- [**Población en Bogotá D.C por Localidad (2005–2035):** ](https://datosabiertos.bogota.gov.co/en/dataset/piramide-poblacional-bogota-d-c/resource/d1743cda-9ff9-4103-87ab-9c038f2f09a3)
   
 - [**Natalidad en Bogotá D.C (2009–2024):** ](https://saludata.saludcapital.gov.co/osb/indicadores/natalidad-en-bogota/)
 
+- [**ProBogotá Región. (2024). *Índice integral de seguridad en las localidades de Bogotá*** ]([https://saludata.saludcapital.gov.co/osb/indicadores/natalidad-en-bogota/](https://www.probogota.org/publicaciones_c/indice-integral-de-seguridad-en-las-localidades-2024/))
 
+- [**Secretaría Distrital de Salud. (s.f.). *Base de datos de pobreza en Bogotá*. Observatorio de Salud de Bogotá (Saludata).** ](https://saludata.saludcapital.gov.co/osb/indicadores/pobreza-y-desigualdad-en-bogota-d-c/)
 
 
 ---
