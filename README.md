@@ -69,6 +69,10 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 - **ProBogotá Región. (2024).** *Índice integral de seguridad en las localidades de Bogotá*. Recuperado de [https://www.probogota.org/publicaciones_c/indice-integral-de-seguridad-en-las-localidades-2024/](https://www.probogota.org/publicaciones_c/indice-integral-de-seguridad-en-las-localidades-2024/)
 
 - **Secretaría Distrital de Salud. (s.f.).** *Base de datos de pobreza en Bogotá*. Observatorio de Salud de Bogotá (Saludata). Recuperado de [https://saludata.saludcapital.gov.co/osb/indicadores/pobreza-y-desigualdad-en-bogota-d-c/](https://saludata.saludcapital.gov.co/osb/indicadores/pobreza-y-desigualdad-en-bogota-d-c/)
+
+- [Visita Google](https://www.google.com) 
+
+
 ---
 
 ## 👤 Autor
