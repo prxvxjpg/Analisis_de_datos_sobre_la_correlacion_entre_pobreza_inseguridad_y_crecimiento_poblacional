@@ -1,7 +1,7 @@
 # Natalidad y desigualdad en Bogotá: Un análisis de datos sobre la correlación entre pobreza, inseguridad y crecimiento poblacional (2009-2024)  🟡🐦‍⬛🔴 
 
 ## 📖 Descripción
-Análisis exploratorio de dataset de pacientes con diabetes para identificar factores de riesgo y patrones predictivos.
+Un análisis de datos completo sobre la dinámica poblacional en Bogotá (2009-2024). Este proyecto integra, limpia y analiza conjuntos de datos públicos (Saludata, Datos Abiertos) para explorar la correlación entre las tasas de natalidad y los índices de factores socioeconómicos, como la pobreza y la inseguridad, a nivel de localidad. El análisis demuestra habilidades en limpieza de datos (Pandas), análisis estadístico y visualización (Matplotlib/Seaborn).
 
 ---
 
@@ -63,6 +63,9 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 - **Natalidad en Bogotá D.C (2009–2024):**  
   [https://datosabiertos.bogota.gov.co/en/dataset/piramide-poblacional-bogota-d-c/resource/d1743cda-9ff](https://datosabiertos.bogota.gov.co/en/dataset/piramide-poblacional-bogota-d-c/resource/d1743cda-9ff)
 
+- ProBogotá Región. (2024). *Índice integral de seguridad en las localidades de Bogotá*. Recuperado de [https://www.probogota.org/publicaciones_c/indice-integral-de-seguridad-en-las-localidades-2024/](https://www.probogota.org/publicaciones_c/indice-integral-de-seguridad-en-las-localidades-2024/)
+
+- Secretaría Distrital de Salud. (s.f.). *Base de datos de pobreza en Bogotá*. Observatorio de Salud de Bogotá (Saludata). Recuperado de [https://saludata.saludcapital.gov.co/osb/indicadores/pobreza-y-desigualdad-en-bogota-d-c/](https://saludata.saludcapital.gov.co/osb/indicadores/pobreza-y-desigualdad-en-bogota-d-c/)
 ---
 
 ## 👤 Autor
