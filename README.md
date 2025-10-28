@@ -10,7 +10,7 @@ Análisis exploratorio de dataset de pacientes con diabetes para identificar fac
 - Proporcionar visualizaciones comprensivas
 
 ## 🚀 Ejecución Rápida
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/diabetes-analysis/blob/main/analysis.ipynb)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/diabetes-analysis/blob/main/analysis.ipynb](https://colab.research.google.com/drive/1riysf6eRqfz_YBh-SwbGrYEL5QWpg7FY))
 
 ## 📊 Hallazgos Clave
 - **Edad**: Pacientes mayores de 45 años tienen 3x más riesgo
