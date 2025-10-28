@@ -72,7 +72,7 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 
 ## 👤 Autor
 
-**Juan Gómez**  
+**Juan Pablo Gómez Morales**  
 📧 *[prxvxjpg@gmail.com]*  
 📍 Bogotá, Colombia  
 
