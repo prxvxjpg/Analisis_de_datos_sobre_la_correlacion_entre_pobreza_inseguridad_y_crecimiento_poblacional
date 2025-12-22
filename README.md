@@ -6,7 +6,7 @@ Un análisis de datos completo sobre la dinámica poblacional en Bogotá (2009-2
 ---
 
 ## 🚀 Ejecución Rápida
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1riysf6eRqfz_YBh-SwbGrYEL5QWpg7FY) *(para visualizar y ejecutar los códigos)*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kjrExgZTL3LBOSz2DL0_KULD6ojwmYBA?authuser=1) *(para visualizar y ejecutar los códigos)*
 
 - `PoblacionYNatalidadBogotaAnalisisDeDatosFinal.ipynb` archivo .ipynb del proyecto
 
