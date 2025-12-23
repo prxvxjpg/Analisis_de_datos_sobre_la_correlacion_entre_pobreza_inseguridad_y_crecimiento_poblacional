@@ -1,7 +1,7 @@
 # Natalidad y desigualdad en Bogotá: Un análisis de datos sobre la correlación entre pobreza, inseguridad y crecimiento poblacional (2009-2024)  🟡🐦‍⬛🔴 
 
 ## 📖 Descripción
-Un análisis de datos completo sobre la dinámica poblacional en Bogotá (2009-2024). Este proyecto integra, limpia y analiza conjuntos de datos públicos (Saludata, Datos Abiertos) para explorar la correlación entre las tasas de natalidad y los índices de factores socioeconómicos, como la pobreza y la inseguridad, a nivel de localidad. El análisis demuestra habilidades en limpieza de datos (Pandas), análisis estadístico y visualización (Matplotlib/Seaborn).
+Un análisis de datos completo mediante series de tiempo sobre la dinámica poblacional en Bogotá (2009-2024). Este proyecto integra, limpia y analiza conjuntos de datos públicos (Saludata, Datos Abiertos) para explorar la correlación entre las tasas de natalidad y los índices de factores socioeconómicos, como la pobreza y la inseguridad, a nivel de localidad. Como culminación del análisis, se aplicó un algoritmo de Machine Learning de regresión lineal, entrenado con los datos históricos, para generar un pronóstico de la tasa de natalidad proyectada para el año 2025. El análisis demuestra habilidades en limpieza de datos (Pandas), análisis estadístico, modelado predictivo de series temporales y visualización (Matplotlib/Seaborn).
 
 ---
 
