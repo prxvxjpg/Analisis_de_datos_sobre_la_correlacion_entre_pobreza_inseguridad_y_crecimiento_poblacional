@@ -6,7 +6,7 @@ Un análisis de datos completo mediante series de tiempo sobre la dinámica pobl
 ---
 
 ## 🚀 Ejecución Rápida
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kjrExgZTL3LBOSz2DL0_KULD6ojwmYBA?authuser=1) *(para visualizar y ejecutar los códigos)*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sUXYvSP-_OvpVx00NX4tqh3CSW9BrjxM?usp=drive_link) *(para visualizar y ejecutar los códigos)*
 
 - `PoblacionYNatalidadBogotaAnalisisDeDatosFinal.ipynb` archivo .ipynb del proyecto
 
