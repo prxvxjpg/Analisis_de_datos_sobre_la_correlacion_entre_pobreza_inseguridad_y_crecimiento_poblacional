@@ -55,7 +55,8 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 - Distribución de población por curso de vida.  
 - Mapas temáticos de localidades.  
 - Ranking de localidades más pobladas.  
-- Gráficos de violín para distribución etaria (2009-2024)
+- Gráficos de violín para distribución etaria (2009-2024).
+- Evolución de la tasa de natalidad en Bogotá y regresión lineal que predice el valor para el próximo año (2009-2025).  
 
 ---
 
