@@ -13,19 +13,19 @@ Un análisis de datos completo mediante series de tiempo sobre la dinámica pobl
 
 ---
 
-## 📊 Resultados destacados
+📊 **Resultados destacados**
 
 El análisis de datos demográficos de Bogotá (2009-2024) permitió identificar transformaciones estructurales clave, derivando en las siguientes conclusiones estratégicas:
 
-- Reducción acelerada de la matalidad: Se identificó una disminución superior al 50% en los nacimientos, pasando de más de 115.000 en 2009 a aproximadamente 56.000 en 2024. Esta tendencia refleja cambios socioculturales profundos, como el mayor acceso a la educación, la inserción laboral femenina y el aplazamiento de la maternidad.
+**Reducción acelerada de la natalidad:** Se identificó una disminución superior al 50% en los nacimientos, pasando de más de 115.000 en 2009 a aproximadamente 56.000 en 2024, con una tasa que cayó a 7.13 nacimientos por cada 1.000 habitantes en 2024. Mediante un modelo predictivo de regresión lineal, se proyecta que esta tendencia continuará en 2025, con una tasa estimada de 6.94. Esta tendencia refleja cambios socioculturales profundos, como el mayor acceso a la educación, la inserción laboral femenina y el aplazamiento de la maternidad.
 
-- Natalidad como indicador de desigualdad: Se estableció una correlación significativa entre las altas tasas de natalidad y condiciones de vulnerabilidad socioeconómica. Localidades como Los Mártires, Ciudad Bolívar, Usme y Bosa, que presentan mayores índices de pobreza e inseguridad, concentran los niveles más altos de nacimientos, evidenciando que este fenómeno es un indicador estructural de inequidad urbana.
+**Natalidad como indicador de desigualdad:** Se estableció una correlación significativa entre las altas tasas de natalidad y condiciones de vulnerabilidad socioeconómica. Localidades como Los Mártires, Ciudad Bolívar, Usme y Bosa, que presentan mayores índices de pobreza e inseguridad, concentran los niveles más altos de nacimientos, evidenciando que este fenómeno es un indicador estructural de inequidad urbana.
 
-- Transición hacia un envejecimiento poblacional: A pesar de la caída en nacimientos, se confirmó un aumento moderado de la población total. Este escenario apunta a un proceso de envejecimiento demográfico, lo que proyecta futuras presiones sobre los sistemas de salud, pensiones y el mercado laboral de la ciudad.
+**Transición hacia un envejecimiento poblacional:** A pesar de la caída en nacimientos, se confirmó un aumento moderado de la población total. Este escenario apunta a un proceso de envejecimiento demográfico, lo que proyecta futuras presiones sobre los sistemas de salud, pensiones y el mercado laboral de la ciudad.
 
-- Impacto de coyunturas críticas: El análisis cuantificó el impacto de la pandemia de COVID-19, la cual acentuó drásticamente la caída en los nacimientos entre 2020-2021, demostrando la alta sensibilidad del fenómeno a factores de incertidumbre económica y social.
+**Impacto de coyunturas críticas:** El análisis cuantificó el impacto de la pandemia de COVID-19, la cual acentuó drásticamente la caída en los nacimientos entre 2020-2021, demostrando la alta sensibilidad del fenómeno a factores de incertidumbre económica y social.
 
-- Conclusión estratégica: Los hallazgos refuerzan la necesidad de políticas públicas multidimensionales y focalizadas territorialmente, que aborden las brechas en educación, salud reproductiva y oportunidades económicas para lograr un desarrollo urbano sostenible y equitativo.
+**Conclusión estratégica:** Los hallazgos refuerzan la necesidad de políticas públicas multidimensionales y focalizadas territorialmente, que aborden las brechas en educación, salud reproductiva y oportunidades económicas para lograr un desarrollo urbano sostenible y equitativo.
 
 
 ---
@@ -36,13 +36,15 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 
 | Área | Competencias demostradas |
 |------|---------------------------|
+| **Investigación aplicada y contextualización** | Indagación y síntesis de fuentes secundarias (artículos, reportes de seguridad, índices de pobreza) para enriquecer el análisis y generar hipótesis fundamentadas sobre el contexto socioeconómico de Bogotá. |
 | **Manipulación de datos** | Uso avanzado de `pandas` (`groupby`, `pivot_table`, `merge`, `fillna`, etc.); integración de múltiples bases de datos (población y nacimientos) para crear nuevas variables mediante fórmulas matemáticas (ej: cálculo de tasa de natalidad). |
 | **Análisis exploratorio** | Identificación de patrones, outliers y tendencias temporales; análisis de correlación entre desigualdad y variables demográficas. |
 | **Visualización** | Creación de gráficos profesionales y personalizados con `matplotlib` y `seaborn`. |
 | **Modelado predictivo** | Implementación de modelos de Machine Learning (regresión lineal) para predecir la tasa de natalidad futura y evaluar su relación con indicadores socioeconómicos. |
-| **Pensamiento analítico** | Diseño lógico del flujo de trabajo, interpretación de resultados y formulación de hipótesis basadas en evidencia cuantitativa. |
-| **Comunicación científica** | Inclusión de texto descriptivo, conclusiones y contexto demográfico para Bogotá. |
+| **Pensamiento analítico** | Diseño lógico del flujo de trabajo, interpretación de resultados y formulación de hipótesis basadas en evidencia cuantitativa. **Identificación de patrones subyacentes y relaciones complejas**, como el hallazgo clave de que localidades con mayor desigualdad económica e inseguridad presentan tasas de natalidad más altas, una relación no evidente a priori. |
+| **Comunicación científica** | Inclusión de texto descriptivo, conclusiones y contexto demográfico para Bogotá, articulando hallazgos técnicos de forma accesible. |
 | **Reproducibilidad** | Organización y documentación clara en entorno Jupyter; código estructurado para facilitar la replicación del análisis. |
+
 ---
 
 ## 📈 Visualizaciones incluidas
