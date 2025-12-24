@@ -36,13 +36,13 @@ El proyecto refleja un sólido dominio de herramientas y competencias analítica
 
 | Área | Competencias demostradas |
 |------|---------------------------|
-| **Manipulación de datos** | Uso avanzado de `pandas` (`groupby`, `pivot_table`, `merge`, `fillna`, etc.) |
-| **Análisis exploratorio** | Identificación de patrones, outliers y tendencias temporales |
-| **Visualización** | Creación de gráficos profesionales y personalizados con `matplotlib` y `seaborn` |
-| **Pensamiento analítico** | Diseño lógico del flujo de trabajo, interpretación de resultados |
-| **Comunicación científica** | Inclusión de texto descriptivo, conclusiones y contexto demográfico |
-| **Reproducibilidad** | Organización y documentación clara en entorno Jupyter |
-
+| **Manipulación de datos** | Uso avanzado de `pandas` (`groupby`, `pivot_table`, `merge`, `fillna`, etc.); integración de múltiples bases de datos (población y nacimientos) para crear nuevas variables mediante fórmulas matemáticas (ej: cálculo de tasa de natalidad). |
+| **Análisis exploratorio** | Identificación de patrones, outliers y tendencias temporales; análisis de correlación entre desigualdad y variables demográficas. |
+| **Visualización** | Creación de gráficos profesionales y personalizados con `matplotlib` y `seaborn`. |
+| **Modelado predictivo** | Implementación de modelos de Machine Learning (regresión lineal) para predecir la tasa de natalidad futura y evaluar su relación con indicadores socioeconómicos. |
+| **Pensamiento analítico** | Diseño lógico del flujo de trabajo, interpretación de resultados y formulación de hipótesis basadas en evidencia cuantitativa. |
+| **Comunicación científica** | Inclusión de texto descriptivo, conclusiones y contexto demográfico para Bogotá. |
+| **Reproducibilidad** | Organización y documentación clara en entorno Jupyter; código estructurado para facilitar la replicación del análisis. |
 ---
 
 ## 📈 Visualizaciones incluidas
